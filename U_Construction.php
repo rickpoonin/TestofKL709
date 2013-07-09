@@ -27,5 +27,11 @@ Rick's Production All rights reserved.
 <a href="mailto:rickpoonhk@yahoo.com.hk?Subject=Hello%20from%20rickpoonhk.brinkster.net">
 Send me a mail</a>
 
+
+<?php
+echo "My first PHP script!";
+?>  
+
+
 </body>
 </html>
