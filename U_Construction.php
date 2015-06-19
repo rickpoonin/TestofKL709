@@ -24,7 +24,7 @@ For authorized person only.
 <p>
 Rick's Production All rights reserved.
 </p>
-<a href="mailto:rickpoonhk@yahoo.com.hk?Subject=Hello%20from%20rickpoonhk.brinkster.net">
+<a href="mailto:rickpoonin@yahoo.com.hk?Subject=Hello%20from%20rickpoonhk.brinkster.net">
 Send me a mail</a>
 
 
