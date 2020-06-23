@@ -12,6 +12,6 @@ Homepage
 ---News
 ---Photo
 ---Appointment
----contact us
-------Admin panel
-------Check schedule, etc
+---Contact us
+------Admin-panel
+------Check-schedule, etc
